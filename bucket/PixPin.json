@@ -1,10 +1,10 @@
 {
-    "version": "1.9.11.8",
+    "version": "2.0.0.3",
     "description": "PixPin",
     "homepage": "https://pixpin.cn/",
     "license": "Free-Software",
-     "url": "https://download.pixpin.cn/PixPin_1.9.11.8.zip",
-     "hash": "5c7eb2f080dc0974abe0e56211ec63cae81ef0a0042c37a2f375da57ae7bdea7",
+     "url": "https://download.pixpin.cn/PixPin_2.0.0.3.zip",
+     "hash": "b50edd16fc4ced4599d5bb7e80448d325e8f7adc348ae9bcd790a85ad43f241f",
     "extract_dir": "PixPin",
     "bin": "PixPin.exe",
     "shortcuts": [
