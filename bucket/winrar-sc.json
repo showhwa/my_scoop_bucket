@@ -1,5 +1,5 @@
 {
-    "version": "7.12",
+    "version": "7.13",
     "description": "Powerful archive manager",
     "homepage": "https://rarlab.com/",
     "license": {
@@ -9,7 +9,7 @@
     "notes": "Set up context menu within settings window.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/showhwa/winrar-sc-noad/raw/main/7.12/winrar-x64-sc.exe#/dl.7z"
+            "url": "https://raw.githubusercontent.com/showhwa/winrar-sc-noad/main/7.13/winrar-x64-sc.exe#/dl.7z"
         }
     },
     "pre_install": [
